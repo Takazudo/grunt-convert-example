@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "author": "'Takazudo' Takeshi Takatsudo <takazudo@gmail.com>",
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-convert": "~0.1.2",
+    "grunt": "~0.4.1"
+  }
+}

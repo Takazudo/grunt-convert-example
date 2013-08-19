@@ -1,0 +1,44 @@
+promotion_imgs:
+  - big: '...jpg'
+    thumb: '...jpg'
+    caption: 'キャプション'
+  - big: '...jpg'
+    thumb: '...jpg'
+    caption: 'キャプション'
+  - big: '...jpg'
+    thumb: '...jpg'
+    caption: 'キャプション'
+color_img_sets:
+  - color_id: 1
+    imgs:
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+  - color_id: 2
+    imgs:
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+  - color_id: 3
+    imgs:
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
+      - big: '...jpg'
+        thumb: '...jpg'
+        caption: 'キャプション'
